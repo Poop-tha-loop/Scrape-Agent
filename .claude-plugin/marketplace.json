@@ -3,7 +3,7 @@
   "name": "scrape-agent",
   "description": "A cost-aware social scraping agent that drives scrapepack across YouTube, X, Instagram, and TikTok",
   "owner": {
-    "name": "Elliot Weinreich",
+    "name": "Poop-tha-loop",
     "url": "https://github.com/Poop-tha-loop"
   },
   "plugins": [
@@ -11,7 +11,7 @@
       "name": "scrapepack",
       "description": "Runs social-platform scrapes through scrapepack with quota and spend checks before anything live. Handles YouTube outlier search, channel crawls, transcripts, and Apify-actor platforms.",
       "author": {
-        "name": "Elliot Weinreich"
+        "name": "Poop-tha-loop"
       },
       "category": "data",
       "source": "./plugins/scrapepack",
