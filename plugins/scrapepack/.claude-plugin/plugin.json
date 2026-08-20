@@ -1,8 +1,10 @@
 {
   "name": "scrapepack",
-  "description": "Cost-aware scraping agent for scrapepack — YouTube outliers, channel crawls, transcripts, and Apify-actor platforms (X, Instagram, TikTok), with quota and spend checks before any live run.",
+  "description": "Cost-aware scraping agent for scrapepack \u2014 YouTube outliers, channel crawls, transcripts, and Apify-actor platforms (X, Instagram, TikTok), with quota and spend checks before any live run.",
   "version": "0.1.0",
   "author": {
     "name": "Elliot Weinreich"
-  }
+  },
+  "homepage": "https://github.com/Poop-tha-loop/Scrape-Agent",
+  "repository": "https://github.com/Poop-tha-loop/Scrape-Agent.git"
 }

@@ -1,9 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "scrapepack-agent",
+  "name": "scrape-agent",
   "description": "A cost-aware social scraping agent that drives scrapepack across YouTube, X, Instagram, and TikTok",
   "owner": {
-    "name": "Elliot Weinreich"
+    "name": "Elliot Weinreich",
+    "url": "https://github.com/Poop-tha-loop"
   },
   "plugins": [
     {
@@ -13,7 +14,8 @@
         "name": "Elliot Weinreich"
       },
       "category": "data",
-      "source": "./plugins/scrapepack"
+      "source": "./plugins/scrapepack",
+      "homepage": "https://github.com/Poop-tha-loop/Scrape-Agent"
     }
   ]
 }

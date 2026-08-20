@@ -1,17 +1,17 @@
-# scrapepack-agent
+# Scrape-Agent
 
-A Claude Code plugin that drives [scrapepack](https://github.com/YOUR-USERNAME/scrapepack) — social-platform scraping across YouTube, X, Instagram, and TikTok — with quota and spend checks before anything live.
+A Claude Code plugin that drives `scrapepack` — social-platform scraping across YouTube, X, Instagram, and TikTok — with quota and spend checks before anything live.
 
 The plugin ships **the agent, not the scraper.** You still need a `scrapepack` checkout on the machine where you run it.
 
 ## Install
 
 ```
-/plugin marketplace add YOUR-USERNAME/scrapepack-agent
+/plugin marketplace add Poop-tha-loop/Scrape-Agent
 ```
 
 ```
-/plugin install scrapepack@scrapepack-agent
+/plugin install scrapepack@scrape-agent
 ```
 
 Then point it at your scrapepack checkout:
